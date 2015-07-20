@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/pre-dexed/debug/classes-25b4b24e06e80b757adfe06a33cdd4620d250b73.jar" />
+    </item>
+    <item
+        jar="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/pre-dexed/debug/classes-46274bd0437c0346c63797868c8e10df2106c2ce.jar" />
+    </item>
+    <item
+        jar="/home/noiser/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-31b2d2b569befe1a8aea0e5d5de2ec044cdfa229.jar" />
+    </item>
+    <item
+        jar="/home/noiser/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/pre-dexed/debug/gson-2.3.1-ca7a750de5af5765f50014db66fe580686b2eb6a.jar" />
+    </item>
+    <item
+        jar="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/pre-dexed/debug/classes-22233f56da00dde432c7d12759d78df7b2a4a1a4.jar" />
+    </item>
+    <item
+        jar="/home/noiser/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/pre-dexed/debug/glide-3.6.0-e9c54e8cbb474c61ed2da48972b84aecf9304d48.jar" />
+    </item>
+    <item
+        jar="/home/noiser/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-6866fc59e78a4d98c329f549b1d6b369ba9a7b1d.jar" />
+    </item>
+    <item
+        jar="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/pre-dexed/debug/classes-c96e88b97e98e87046321a8bcc28c959f52e8ca3.jar" />
+    </item>
+    <item
+        jar="/home/noiser/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-e61d959d93aa6b328e4575f37c3426be4dca1db0.jar" />
+    </item>
+    <item
+        jar="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/noiser/876d62db-e24f-4352-a310-363c16d64812/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-c86577d58727936c2caef38fa97191fe7edf9c42.jar" />
+    </item>
+
+</items>
